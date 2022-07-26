@@ -3,6 +3,7 @@
 import random
 
 #ANG STATUS NG BUHAY MO/My Status
+#A program that ask a user a question and answers depends on the answer of the user
 
 def anopangalanmo():
     #asks a users name
